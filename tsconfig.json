@@ -11,10 +11,7 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
-    "rules": {
-      "typescript-eslint": 0,
-    },
-    "baseUrl": ".",
+    "baseUrl": "./",
     "types": [
       "webpack-env",
       "jest"

@@ -20,5 +20,14 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### git commit 
+
+1. git add .
+2. npm run commit
+
+![image-20211220154434929](https://gitee.com/sue201982/mysql/raw/master/img//image-20211220154434929.png)
+
+Write a short ... - 写更改的文件
+Provide a longer description ... - 写详细的更改
+
+3. git push origin main
